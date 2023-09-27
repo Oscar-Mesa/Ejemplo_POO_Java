@@ -1,4 +1,3 @@
-import java.sql.Struct;
 
 public class cls_estudiantes{
     //Atributos de clase
